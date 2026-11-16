@@ -1,0 +1,6 @@
+{
+  "name": "Alder & Canopy Nursery",
+  "description": "Local specimen tree, native plant, and heirloom seed nursery offering live inventory browsing, botanical care specifications, and garden planning consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
